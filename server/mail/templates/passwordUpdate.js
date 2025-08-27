@@ -55,7 +55,7 @@ exports.passwordUpdated = (email, name) => {
     
     <body>
         <div class="container">
-            <a href="https://learn-kode-frontend.vercel.app/"><img class="logo"
+            <a href="https://learn-kode.vercel.app/"><img class="logo"
                     src="https://i.postimg.cc/Dy4WVfXS/IMG-20240802-101259-removebg-preview.png" alt="Learn Kode Logo"></a>
             <div class="message">Password Update Confirmation</div>
             <div class="body">
@@ -66,7 +66,7 @@ exports.passwordUpdated = (email, name) => {
             </div>
             <div class="support">If you have any questions or need further assistance, please feel free to reach out to us
                 at
-                <a href="mailto:">prajapatigovind866@gmail.com</a>. We are here to help!
+                <a href="mailto:sk31156748@gmail.com">sk31156748@gmail.com</a>. We are here to help!
             </div>
         </div>
     </body>

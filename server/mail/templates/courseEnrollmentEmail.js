@@ -67,7 +67,7 @@ exports.courseEnrollmentEmail = (courseName, name) => {
   
   <body>
       <div class="container">
-          <a href="https://learn-kode-frontend.vercel.app/"><img class="logo" src="https://i.postimg.cc/Dy4WVfXS/IMG-20240802-101259-removebg-preview.png"
+          <a href="https://learn-kode.vercel.app/"><img class="logo" src="https://i.postimg.cc/Dy4WVfXS/IMG-20240802-101259-removebg-preview.png"
                   alt="Learn Kode Logo"></a>
           <div class="message">Course Registration Confirmation</div>
           <div class="body">
@@ -76,10 +76,10 @@ exports.courseEnrollmentEmail = (courseName, name) => {
                   are excited to have you as a participant!</p>
               <p>Please log in to your learning dashboard to access the course materials and start your learning journey.
               </p>
-              <a class="cta" href="https://learn-kode-frontend.vercel.app/dashboard/my-profile">Go to Dashboard</a>
+              <a class="cta" href="https://learn-kode.vercel.app/dashboard/my-profile">Go to Dashboard</a>
           </div>
           <div class="support">If you have any questions or need assistance, please feel free to reach out to us at <a
-                  href="mailto:prajapatigovind866@gmail.com">prajapatigovind866@gmail.com</a>. We are here to help!</div>
+                  href="mailto:sk31156748@gmail.com">sk31156748@gmail.com</a>. We are here to help!</div>
       </div>
   </body>
   
